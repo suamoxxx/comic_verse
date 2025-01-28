@@ -23,7 +23,7 @@ function Main(){
                 
                 </div>
               </section>
-              <Footer />
+
             
         </div>
     )

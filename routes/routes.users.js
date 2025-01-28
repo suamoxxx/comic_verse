@@ -52,7 +52,7 @@ router.post('/login', async (req, res)=>{
         // --- Firmamos el ID del usuario y expira en una hora el token
         const token = jwt.sign({id: userAuth.id}, process.env.JWT_SECREt, {expiresIn: 60 * 60 })
         res.setHeader('Authorization', `Bearer ${token}`)
-        return res.json(`Correct`)
+        return res.json(`true`)
         
     } catch (error) {
         res.status(500).json({message: `Server Error, ${error}`})
