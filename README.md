@@ -96,6 +96,7 @@ Proyecto académico — Fundación Universitaria Para El Desarrollo Humano - Uni
 📄 Licencia
 MIT License — libre uso académico y educativo.
 
-yaml
-Copiar
+### Documentaciob
+
+Para este proyecto segui el ciclo de vida con un producto mínimo viable (MVP) por el tiempo establecido, donde, antes de iniciar a codificar, se realiza la documentación, se levantan requerimientos funcionales, no funcionales, casos de uso, historias de usuario y restricciones del software, se documentó este proceso, se logró finalizar el primer ciclo de vida del sistema desarrollado.
 Editar
